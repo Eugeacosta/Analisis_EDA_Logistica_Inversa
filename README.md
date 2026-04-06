@@ -39,4 +39,4 @@ El proyecto permitió elevar recomendaciones estratégicas a la gerencia:
 3. **Saneamiento de Datos:** Depuración de anomalías sistémicas para mejorar la visibilidad del tablero de control (Power BI).
 
 ---
-*Proyecto desarrollado por [María Eugenia Acosta*
+*Proyecto desarrollado por María Eugenia Acosta*
